@@ -1,0 +1,8 @@
+learn vim for personal use 
+
+on the first step you open file in vim you in command line
+
+:q -> quit form vim
+:w -> save your changes
+:wq -> save your changes and quit
+:q! -> force quit without change
