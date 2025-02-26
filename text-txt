@@ -1,8 +1,22 @@
 learn vim for personal use 
 
-on the first step you open file in vim you in command line
+on the first step you open file in vim you in command line ( command mode )
 
 :q -> quit form vim
 :w -> save your changes
 :wq -> save your changes and quit
 :q! -> force quit without change
+
+:set number -> numbering your text file
+
+if you press -> i -> you can write ( insert mode ) and you can type stuff
+and for close insert mode you can press -> Esc -> to back command mode
+
+double press d -> dd -> in command mode delete line
+if you added number before dd -> command repeat as much as you prompt number -> 3dd -> delete 3 line 
+u -> undo your last action
+Ctrl+u -> redo your action
+/ -> serach your string between your text -> /string
+in search if you press enter you go to first letter on string that you search
+n-> and move between search can press n -> or Shift+n is reverse
+
