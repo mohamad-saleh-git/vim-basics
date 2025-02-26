@@ -19,4 +19,9 @@ Ctrl+u -> redo your action
 / -> serach your string between your text -> /string
 in search if you press enter you go to first letter on string that you search
 n-> and move between search can press n -> or Shift+n is reverse
+%s -> give you possibility search and replace -> %s/your_search/your_replacement
+if you want to changes for all result you can type -> %s/your_search/your_replacement -g
 
+and if you want premission for replace you can type -> %s/your_search/your_replacement -gc
+
+there is basic thing form use for vim on feture im back and comlete pro version for you (if i'm bored )
