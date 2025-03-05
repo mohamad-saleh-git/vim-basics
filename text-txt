@@ -1,6 +1,7 @@
 learn vim for personal use 
 
-on the first step you open file in vim you in command line ( command mode )
+on the first step in debian base linux please enter "sudo apt install vim" and 
+on the second step open file in vim you in command line ( command mode )
 
 :q -> quit form vim
 :w -> save your changes
