@@ -1,7 +1,16 @@
 learn vim for personal use 
 
 on the first step in debian base linux please enter "sudo apt install vim" and 
+on redhat enter "sudo yum install vim"
 on the second step open file in vim you in command line ( command mode )
+
+
+editingMode -> 
+: -> command mode
+ESC -> normal mode
+i -> insert mode
+v -> visual mode,
+
 
 :q -> quit form vim
 :w -> save your changes
